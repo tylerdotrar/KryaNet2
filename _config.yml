@@ -22,7 +22,7 @@ phone_title: Personal Phone
 darkmode: never
 
 # Social links
-psychology_today: therapists/kyra-tuley-bowling-green-ky/918036
+#psychology_today: therapists/kyra-tuley-bowling-green-ky/918036
 linkedin_username: kyrahtuley
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -39,9 +39,9 @@ linkedin_username: kyrahtuley
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: Psychology Today
+  icon: fab fa-address-card
+  url: https://www.psychologytoday.com/us/therapists/kyra-tuley-bowling-green-ky/918036
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -58,7 +58,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My specialty client populations I have worked with previously are those struggling with addiction, those experiencing homelessness, and at-risk youth. Any goal, need, and challenge brought to me are met with the understanding that you are the expert of your situation. I will work to assist you through using the skills I have accumulated throughout my education and career to best serve you at your most vulnerable times while learning from your experiences to provide the best possible care and further assist where and when able. I have experience in both outpatient and inpatient counseling, as well as individual and group counseling.
   
+  
   I specialize in dual diagnosis, addiction, food insecurity, housing insecurity, risk-assessments, and various mental health conditions. I primarily utilize CBT, DBT, Strengths-based approaches, solutions based, mindfulness interventions, and expressive therapies. We are worthy of care and love, and it is my goal to ensure my clients come to believe this.
+  
   
   Neil Hilborn said "we all lived through who we were to become who we are." I would be honored to be the one who assists you to process your life experiences, explore the survival mechanisms we developed to survive in the moment, and work to replace those with healthy strategies to encourage long-lasting solutions and happiness. Let's flourish together.
 
