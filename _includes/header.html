@@ -122,7 +122,7 @@
           {{ site.website_title | default: "Web" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
-      %- if site.website2 -%}
+      {%- if site.website2 -%}
         <p>
           {{ site.website_title2 | default: "Web" }}: {% include a.html href=site.website2 %}{{ site.website2 | escape }}</a>
         </p>
