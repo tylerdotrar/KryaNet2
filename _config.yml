@@ -1,37 +1,39 @@
 # Site
 repository: tylerdotrar/kryanet.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon_rocket.png
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Krya Tuley
+name: Krya H. Tuley
 title: LCSW, TCADC
 email: kyratuley@gmail.com
 # email_title: Email (Email title override)
 phone: (270) 283-9254
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://www.psychologytoday.com/us/therapists/kyra-tuley-bowling-green-ky/918036
 # website_title: Web (Website title override)
+#website2: Your website (eg. https://google.com)(optional)
+# website_title2: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#twitter_username: jekyllrb
+#github_username:  jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: kyrahtuley
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -50,15 +52,18 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  My specialty client populations I have worked with previously are those struggling with addiction, those experiencing homelessness, and at-risk youth. Any goal, need, and challenge brought to me are met with the understanding that you are the expert of your situation. I will work to assist you through using the skills I have accumulated throughout my education and career to best serve you at your most vulnerable times while learning from your experiences to provide the best possible care and further assist where and when able. I have experience in both outpatient and inpatient counseling, as well as individual and group counseling.
+  
+  I specialize in dual diagnosis, addiction, food insecurity, housing insecurity, risk-assessments, and various mental health conditions. I primarily utilize CBT, DBT, Strengths-based approaches, solutions based, mindfulness interventions, and expressive therapies. We are worthy of care and love, and it is my goal to ensure my clients come to believe this.
+  
+  Neil Hilborn said "we all lived through who we were to become who we are." I would be honored to be the one who assists you to process your life experiences, explore the survival mechanisms we developed to survive in the moment, and work to replace those with healthy strategies to encourage long-lasting solutions and happiness. Let's flourish together.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
