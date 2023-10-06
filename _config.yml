@@ -1,16 +1,16 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: tylerdotrar/KryaNet2
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Krya Tuley
+title: LCSW, TCADC
+email: kyratuley@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: (270) 283-9254
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
