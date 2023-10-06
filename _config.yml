@@ -1,11 +1,11 @@
-### Site
+# Site
 repository: tylerdotrar/kryanet.github.io
 favicon: images/favicon_cute.png
 
-### Content configuration version
+# Content configuration version
 version: 2
 
-### Personal info
+# Personal info
 name: Krya Hanuel Tuley
 title: LCSW, TCADC
 email: kyratuley@gmail.com
