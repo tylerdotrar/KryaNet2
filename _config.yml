@@ -21,6 +21,11 @@ phone: (270) 283-9254
 phone_title2: Personal Phone
 phone2: (992) 992-8849
 
+license_title: LCSW
+license_details: TN|4794, KY|257847
+license_title2: TCADC
+license_details2: 285118
+
 # website: https://www.psychologytoday.com/us/therapists/kyra-tuley-bowling-green-ky/918036
 # website_title: Web (Website title override)
 
@@ -72,7 +77,7 @@ content:
     content:
 
       # FIRST PROJECT
-      - layout: top-middle #left
+      - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Top Specialties #Project name
@@ -88,10 +93,10 @@ content:
         quote: >
           Throughout my career as a social worker, these areas are the subjects I have the done the most clinical work in.
         description: | # this will include new lines to allow paragraphs
-          - <mark>Trauma</mark>
-          - <mark>Addiction</mark>
-          - <mark>Coping Skills</mark>
-          - <mark>Dual Diagnosis</mark>
+          - <mark>Trauma</mark> | Description about trauma.
+          - <mark>Addiction</mark> | Description about addiction.
+          - <mark>Coping Skills</mark> | Description about coping skills.
+          - <mark>Dual Diagnosis</mark> | Description about diagnoses.
       
       # SECOND PROJECT
       - layout: left
@@ -108,7 +113,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Throughout my career as a social worker, these areas are the subjects I have... blah blah blah
         description: | # this will include new lines to allow paragraphs
           - Alcohol Use
           - Anger Management
@@ -131,7 +136,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Throughout my career as a social worker, these areas are the subjects I have... blah blah blah
         description: | # this will include new lines to allow paragraphs
           - Art Therapy
           - Cognitive Behavioral (CBT)
@@ -177,7 +182,7 @@ content:
         quote: >
           Grade: Summa Cum Laude | Societies: Phi Alpha Social Work Honors Society
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - Description of time spent at this instition.
 
       # UNDERGRADE
       - layout: left #top-right
