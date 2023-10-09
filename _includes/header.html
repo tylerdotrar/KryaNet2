@@ -111,17 +111,30 @@
           {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
-      <!-- Adding Extra Phone --> 
       {%- if site.phone -%}
         <p>
           {{ site.phone_title | default: "Phone" }}: {{ site.phone | escape }}
         </p>
       {%- endif -%}
+      <!-- Start New -->
+      <!-- Adding Extra Phone -->
       {%- if site.phone2 -%}
         <p>
           {{ site.phone_title2 | default: "Phone" }}: {{ site.phone2 | escape }}
         </p>
       {%- endif -%}
+      <!-- Adding License(s) -->
+      {%- if site.license_details -%}
+        <p>
+          {{ site.license_title | default: "License" }}: {{ site.license_details | escape }}
+        </p>
+      {%- endif -%}
+      {%- if site.license_details2 -%}
+        <p>
+          {{ site.license_title2 | default: "License" }}: {{ site.license_details2 | escape }}
+        </p>
+      {%- endif -%}
+      <!-- End New -->
       {%- if site.website -%}
         <p>
           {{ site.website_title | default: "Web" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
