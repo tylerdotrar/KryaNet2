@@ -73,7 +73,7 @@ content:
 
       # FIRST PROJECT
       - layout: top-middle #left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Top Specialties #Project name
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -86,16 +86,16 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Throughout my career as a social worker, these areas are the subjects I have the done the most clinical work in.
         description: | # this will include new lines to allow paragraphs
-          - Trauma
-          - Addiction
-          - Coping Skills
-          - Dual Diagnosis
+          - <mark>Trauma</mark>
+          - <mark>Addiction</mark>
+          - <mark>Coping Skills</mark>
+          - <mark>Dual Diagnosis</mark>
       
       # SECOND PROJECT
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Expertise
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -142,7 +142,20 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+
+      # EXPERIENCE 1
+      - layout: right
+        title: Fuller Life Counseling Partners # Company Name
+        sub_title: Director of Clinical Services # Job Title
+        caption: July 2023 - Present # Date Range
+        link: https://www.fullerlifecounseling.org
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      
+      # EXPERIENCE 2
+      - layout: right
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
@@ -159,8 +172,8 @@ content:
       # GRADUATE SCHOOL
       - layout: left #top-right
         title: Western Kentucky University #Institution name
-        sub_title: Master of Social Work | MSW #Qualifications (eg. BA Performing Arts)
-        caption: 2019 - 2020 #Date Range (eg. 2016 - 2019)
+        sub_title: Master of Social Work | MSW # Qualifications (eg. BA Performing Arts)
+        caption: 2019 - 2020 # Date Range
         quote: >
           Grade: Summa Cum Laude | Societies: Phi Alpha Social Work Honors Society
         description: | # this will include new lines to allow paragraphs
@@ -169,14 +182,14 @@ content:
       # UNDERGRADE
       - layout: left #top-right
         title: Western Kentucky University #Institution name
-        sub_title: Bachelor of Social Work | BSW #Qualifications (eg. BA Performing Arts)
-        caption: 2015 - 2019 #Date Range (eg. 2016 - 2019)
+        sub_title: Bachelor of Social Work | BSW # Qualifications (eg. BA Performing Arts)
+        caption: 2015 - 2019 # Date Range
         quote: >
           Grade: Cum Laude | Societies: Phi Alpha Honors Society
         description: | # this will include new lines to allow paragraphs
-          During my time at WKU, I majored in Social Work and minored in Clinical Behavioral Health in the Community. I graduated with honors, receiving cum laude status through my cumulative GPA and magna cum laude within my field of study.
+          - During my time at WKU, I majored in Social Work and minored in Clinical Behavioral Health in the Community. I graduated with honors, receiving cum laude status through my cumulative GPA and magna cum laude within my field of study.
           
-          Through my bachelor of social work, I completed 400 "field hours" interning at Boys & Girls Club of Bowling Green.
+          - Through my bachelor of social work, I completed 400 "field hours" interning at Boys & Girls Club of Bowling Green.
 
   ### OPTIONAL BONUS BLOCK
   - title: A Little More About Me
