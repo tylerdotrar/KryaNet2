@@ -92,13 +92,14 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Throughout my career as a social worker, these areas are the subjects I have the done the most clinical work in.
+        #quote: >
+        #  Throughout my career as a social worker, these areas are the subjects I have the done the most clinical work in.
         description: | # this will include new lines to allow paragraphs
-          - <mark>Trauma</mark> | I provide compassionate counseling and support to individuals, helping them heal and overcome the psychological effects of traumatic experiences.
-          - <mark>Addiction</mark> | I offer evidence-based therapy and interventions to assist individuals in their journey toward recovery and sobriety.
-          - <mark>Coping Skills</mark> | I empower individuals to manage stress, anxiety, and life challenges more resiliently and proactively.
-          - <mark>Dual Diagnosis</mark> | I address the complex interplay between mental health and substance use disorders, providing comprehensive treatment and support for individuals facing both challenges simultaneously.
+          - Throughout my career as a social worker, these areas are the subjects I have the done the most clinical work in.
+            - <mark>Trauma</mark> | I provide compassionate counseling and support to individuals, helping them heal and overcome the psychological effects of traumatic experiences.
+            - <mark>Addiction</mark> | I offer evidence-based therapy and interventions to assist individuals in their journey toward recovery and sobriety.
+            - <mark>Coping Skills</mark> | I empower individuals to manage stress, anxiety, and life challenges more resiliently and proactively.
+            - <mark>Dual Diagnosis</mark> | I address the complex interplay between mental health and substance use disorders, providing comprehensive treatment and support for individuals facing both challenges simultaneously.
       
       # SECOND PROJECT
       - layout: left
@@ -114,14 +115,15 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Incorporating years of professional experience, my expertise encompasses a wide range of clinical knowledge and skills to address diverse client needs.
+        #quote: >
+        #  Incorporating years of professional experience, my expertise encompasses a wide range of clinical knowledge and skills to address diverse client needs.
         description: | # this will include new lines to allow paragraphs
-          - Anxiety | Grief | School Issues
-          - Behavioral Issues | Inner-Child | Self-Harming
-          - Codependency | Life Transitions | Stress
-          - Depression | Peer Relationships | Substance Use
-          - Eating Disorders | PTSD | Suicidal Ideation 
+          - Incorporating years of professional experience, my expertise encompasses a wide range of clinical knowledge and skills to address diverse client needs. 
+            - Anxiety | Grief | School Issues
+            - Behavioral Issues | Inner-Child | Self-Harming
+            - Codependency | Life Transitions | Stress
+            - Depression | Peer Relationships | Substance Use
+            - Eating Disorders | PTSD | Suicidal Ideation 
      
 
       # THIRD PROJECT
@@ -138,19 +140,20 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          As a seasoned LCSW, I offer various evidence-based therapeutic approaches tailored to individual preferences and treatment goals.
+        #quote: >
+        #  As a seasoned LCSW, I offer various evidence-based therapeutic approaches tailored to individual preferences and treatment goals.
         description: | # this will include new lines to allow paragraphs
-          - Art Therapy
-          - Cognitive Behavioral (CBT)
-          - Dialectical Behavior (DBT)
-          - Eye Movement Desensitization and Reprocessing (EMDR)
-          - Internal Family Systems (IFS)
-          - Mindfulness-Based (MBCT)
-          - Solution Focused Brief (SFBT)
-          - Person-Centered
-          - Strength-Based
-          - Trauma Focused
+          - As a seasoned LCSW, I offer various evidence-based therapeutic approaches tailored to individual preferences and treatment goals.
+            - Art Therapy
+            - Cognitive Behavioral (CBT)
+            - Dialectical Behavior (DBT)
+            - Eye Movement Desensitization and Reprocessing (EMDR)
+            - Internal Family Systems (IFS)
+            - Mindfulness-Based (MBCT)
+            - Solution Focused Brief (SFBT)
+            - Person-Centered
+            - Strength-Based
+            - Trauma Focused
 
   ### JOB EXPERIENCE BLOCK
   - title: Experience
