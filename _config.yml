@@ -62,15 +62,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-     
-    - <mark>LCSW</mark> | TN \#8794 , KY \#257847
-    - <mark>TCADC</mark> | \#285118
-      
   - My specialty client populations I have worked with previously are those struggling with addiction, those experiencing homelessness, and at-risk youth. Any goal, need, and challenge brought to me are met with the understanding that you are the expert of your situation. I will work to assist you through using the skills I have accumulated throughout my education and career to best serve you at your most vulnerable times while learning from your experiences to provide the best possible care and further assist where and when able. I have experience in both outpatient and inpatient counseling, as well as individual and group counseling.
   
   - I specialize in dual diagnosis, addiction, food insecurity, housing insecurity, risk-assessments, and various mental health conditions. I primarily utilize CBT, DBT, Strengths-based approaches, solutions based, mindfulness interventions, and expressive therapies. We are worthy of care and love, and it is my goal to ensure my clients come to believe this.
   
   - Neil Hilborn said "we all lived through who we were to become who we are." I would be honored to be the one who assists you to process your life experiences, explore the survival mechanisms we developed to survive in the moment, and work to replace those with healthy strategies to encourage long-lasting solutions and happiness. Let's flourish together.
+    - <mark>LCSW</mark> | TN \#8794 , KY \#257847
+    - <mark>TCADC</mark> | \#285118
 
 ### MAIN PAGE CONTENTS
 content:
@@ -117,7 +115,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Throughout my career as a social worker, these areas are the subjects I have... blah blah blah
+          Incorporating years of professional experience, my expertise encompasses a wide range of clinical knowledge and skills to address diverse client needs.
         description: | # this will include new lines to allow paragraphs
           - Anxiety | Grief | School Issues
           - Behavioral Issues | Inner-Child | Self-Harming
@@ -141,7 +139,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Throughout my career as a social worker, these areas are the subjects I have... blah blah blah
+          As a seasoned LCSW, I offer various evidence-based therapeutic approaches tailored to individual preferences and treatment goals.
         description: | # this will include new lines to allow paragraphs
           - Art Therapy
           - Cognitive Behavioral (CBT)
