@@ -8,7 +8,7 @@ version: 2
 
 
 ### Personal info
-name: Krya Hanuel Tuley
+name: Kyra Hanuel Tuley
 title: LCSW, TCADC
 email: kyratuley@gmail.com
 # email_title: Email (Email title override)
@@ -67,13 +67,32 @@ about_content: | # this will include new lines to allow paragraphs
 
 ### Main Page Content
 content:
-  - title: Projects # Title for the section
+  - title: Areas of Focus #Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center #left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Top Specialties #Project name
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Trauma
+          - Addiction
+          - Coping Skills
+          - Dual Diagnosis
+
+        ### ADDED PLEASE WORK 
+        title: Expertise
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
