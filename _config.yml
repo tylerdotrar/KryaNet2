@@ -62,16 +62,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  - Licenses
-    - <mark>LCSW</mark> | TN \#8794, KY \#257847
-    - <mark>TCADC</mark> | \#285118
-
   - My specialty client populations I have worked with previously are those struggling with addiction, those experiencing homelessness, and at-risk youth. Any goal, need, and challenge brought to me are met with the understanding that you are the expert of your situation. I will work to assist you through using the skills I have accumulated throughout my education and career to best serve you at your most vulnerable times while learning from your experiences to provide the best possible care and further assist where and when able. I have experience in both outpatient and inpatient counseling, as well as individual and group counseling.
   
   - I specialize in dual diagnosis, addiction, food insecurity, housing insecurity, risk-assessments, and various mental health conditions. I primarily utilize CBT, DBT, Strengths-based approaches, solutions based, mindfulness interventions, and expressive therapies. We are worthy of care and love, and it is my goal to ensure my clients come to believe this.
   
   - Neil Hilborn said "we all lived through who we were to become who we are." I would be honored to be the one who assists you to process your life experiences, explore the survival mechanisms we developed to survive in the moment, and work to replace those with healthy strategies to encourage long-lasting solutions and happiness. Let's flourish together.
 
+  - Active Licensures:
+    - <mark>LCSW</mark> | TN \#8794 , KY \#257847
+    - <mark>TCADC</mark> | \#285118
 
 ### MAIN PAGE CONTENTS
 content:
@@ -98,10 +97,10 @@ content:
         quote: >
           Throughout my career as a social worker, these areas are the subjects I have the done the most clinical work in.
         description: | # this will include new lines to allow paragraphs
-          - <mark>Trauma</mark> | I provide compassionate counseling and support to individuals, helping them heal and overcome the psychological effects of traumatic experiences.
-          - <mark>Addiction</mark> | I offer evidence-based therapy and interventions to assist individuals in their journey toward recovery and sobriety.
-          - <mark>Coping Skills</mark> | I empower individuals to manage stress, anxiety, and life challenges more resiliently and proactively.
-          - <mark>Dual Diagnosis</mark> | I address the complex interplay between mental health and substance use disorders, providing comprehensive treatment and support for individuals facing both challenges simultaneously.
+          <mark>Trauma</mark> | I provide compassionate counseling and support to individuals, helping them heal and overcome the psychological effects of traumatic experiences.
+          <mark>Addiction</mark> | I offer evidence-based therapy and interventions to assist individuals in their journey toward recovery and sobriety.
+          <mark>Coping Skills</mark> | I empower individuals to manage stress, anxiety, and life challenges more resiliently and proactively.
+          <mark>Dual Diagnosis</mark> | I address the complex interplay between mental health and substance use disorders, providing comprehensive treatment and support for individuals facing both challenges simultaneously.
       
       # SECOND PROJECT
       - layout: left
@@ -121,7 +120,7 @@ content:
           Throughout my career as a social worker, these areas are the subjects I have... blah blah blah
         description: | # this will include new lines to allow paragraphs
           - Anxiety | Grief | Self-Harming
-          - Anger Management | Peer Relationships | Substance Use
+          - Inner-Child | Peer Relationships | Substance Use
           - Behavioral Issues | PTSD | Suicidal Ideation
           - Depression | School Issues | Stress
           - Eating Disorders | Codependency | Life Transitions
