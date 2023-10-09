@@ -94,7 +94,7 @@ content:
           - Dual Diagnosis
       
       # SECOND PROJECT
-      - layout: top-middle #left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Expertise
@@ -117,7 +117,7 @@ content:
           - Drug Abuse
       
       # THIRD PROJECT
-      - layout: top-middle #left
+      - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Therapeutic Interventions
@@ -162,7 +162,7 @@ content:
         sub_title: Master of Social Work | MSW #Qualifications (eg. BA Performing Arts)
         caption: 2019 - 2020 #Date Range (eg. 2016 - 2019)
         quote: >
-          Grade: Summa Cum Laude 
+          Grade: Summa Cum Laude | Societies: Phi Alpha Social Work Honors Society
         description: | # this will include new lines to allow paragraphs
           Description of qualification
 
@@ -172,9 +172,11 @@ content:
         sub_title: Bachelor of Social Work | BSW #Qualifications (eg. BA Performing Arts)
         caption: 2015 - 2019 #Date Range (eg. 2016 - 2019)
         quote: >
-          Grade: Cum Laude
+          Grade: Cum Laude | Societies: Phi Alpha Honors Society
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          During my time at WKU, I majored in Social Work and minored in Clinical Behavioral Health in the Community. I graduated with honors, receiving cum laude status through my cumulative GPA and magna cum laude within my field of study.
+          
+          Through my bachelor of social work, I completed 400 "field hours" interning at Boys & Girls Club of Bowling Green.
 
   ### OPTIONAL BONUS BLOCK
   - title: A Little More About Me
