@@ -67,9 +67,13 @@ about_content: | # this will include new lines to allow paragraphs
 
 ### Main Page Content
 content:
+
+  ### AREAS OF FOCUS
   - title: Areas of Focus #Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      # FIRST PROJECT
       - layout: center #left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -90,11 +94,14 @@ content:
           - Addiction
           - Coping Skills
           - Dual Diagnosis
-
-        ### ADDED PLEASE WORK 
+      
+      # SECOND PROJECT
+      - layout: center #left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: Expertise
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -105,7 +112,35 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Alcohol Use
+          - Anger Management
+          - Behavioral Issues
+          - Depression
+          - Drug Abuse
+      
+      # THIRD PROJECT
+      - layout: center #left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Therapeutic Interventions
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Art Therapy
+          - Cognitive Behavioral (CBT)
+          - Dialectical Behavior (DBT)
+          - Eye Movement Desensitization and Reprocessing Therapy (EMDR)
+
+  ### JOB EXPERIENCE BLOCK
   - title: Experience
     layout: list
     content:
@@ -118,6 +153,8 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+  
+  ### EDUCATION BLOCK
   - title: Education
     layout: list
     content:
@@ -129,6 +166,8 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+  
+  ### OPTIONAL BONUS BLOCK
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
